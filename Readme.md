@@ -8,4 +8,3 @@ result of MS_SSIM implement on 2 different webdrivers.
 - Roll the scroll bar to see differents.
 - Blue rectangles are unmatched texts.
 - Red rectangles are unmatched images.
-
